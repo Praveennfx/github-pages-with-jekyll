@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Praveen first github page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+trying out Github pages for first time
